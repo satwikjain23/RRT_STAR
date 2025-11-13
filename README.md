@@ -5,6 +5,9 @@ This repository contains the race package implementing RRT and RRT* based path p
 
 Developed and tested on ROS Noetic (Ubuntu 20.04).
 
+<p align="center">
+  <img src="./rrt.png" alt="RRT Algorithm Visualization" width="600"/>
+</p>
 
 ## Installation
 
